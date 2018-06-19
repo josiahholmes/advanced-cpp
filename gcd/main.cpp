@@ -1,5 +1,5 @@
 //Josiah Holmes
-//CSIS 112 – Spring 2016
+//CSIS 112 ï¿½ Spring 2016
 //Lab 3 - GCD.  This program reads a file containing an unknown quanity of pairs of numbers,
 //              and computes the greatest common divisor (GCD) between the two numbers. The
 //              program also covers inline and overloaded functions, storing the first four
@@ -7,7 +7,6 @@
 //              same name.
 
 
-#include "stdafx.h"
 #include <fstream>
 #include <iostream>
 #include <iomanip>
