@@ -1,0 +1,18 @@
+                            ***  Error Report  ***
+
+
+*** ERROR: Pair (4, 0) has a width and/or length that 
+           does not fit in the range of 1 and 10. 
+
+*** ERROR: Pair (11, 6) has a width and/or length that 
+           does not fit in the range of 1 and 10. 
+
+*** ERROR: Pair (15, 12) has a width and/or length that 
+           does not fit in the range of 1 and 10. 
+
+*** ERROR: Pair (5, 8) has been ignored. Seven pairs of 
+           integers have been read from the input file.
+
+
+
+END OF ERROR REPORT
