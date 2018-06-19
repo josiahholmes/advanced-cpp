@@ -1,8 +1,7 @@
 //Josiah Holmes
-//CSIS 112 – Spring 2016
-//Deposit.cpp – Implementation file for class Deposit
+//CSIS 112 ï¿½ Spring 2016
+//Deposit.cpp ï¿½ Implementation file for class Deposit
 
-#include "stdafx.h"
 #include <iostream>
 #include "Deposit.h"
 #include <fstream>
