@@ -1,9 +1,8 @@
 //Josiah Holmes
-//CSIS 112 – Spring 2016
+//CSIS 112 ï¿½ Spring 2016
 //Lab 4 - State.cpp.  Implementation file for class State.
 
 
-#include "stdafx.h"
 #include "State.h"
 #include <iostream>
 #include <string>

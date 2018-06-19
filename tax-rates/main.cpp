@@ -1,5 +1,5 @@
 //Josiah Holmes
-//CSIS 112 – Spring 2016
+//CSIS 112 ï¿½ Spring 2016
 //Lab 4 - Tax Rates.  This program stores five states into a vector of objects, their tax
 //                    rates in a two-dimensional array, and the row number in the oppropriate
 //                    state object. The program also calculates the tax bill for each state
@@ -9,7 +9,6 @@
 //                    about the state tax rates under general observations.
 
 
-#include "stdafx.h"
 #include "State.h"
 #include <fstream>
 #include <iostream>
